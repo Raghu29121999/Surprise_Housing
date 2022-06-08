@@ -29,10 +29,12 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+ ### top predictors
+- GrLivArea         
+- OverallQual      
+- PropAge          
+- OverallCond        
+- TotalBsmtSF                       
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -44,21 +46,16 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 - statsmodel
 - seaborn
 - sklearn
-- 
+- Ridge,Lasso
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- This project as a assignment of IIIT-B pgpm ML&AI
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Raghu29121999] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
